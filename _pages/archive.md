@@ -34,3 +34,5 @@ title: Posts Archive
   </section>
 </div>
 -->
+
+<!-- a normal html comment -->
