@@ -4,26 +4,21 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I, Suman Dharmasthala (S D Suman) am an urban and regional planner, researcher and data scientist. I have a Masters and Bachelors degree in Urban Planning, a perpetual curiosity about things in the world, a big motivation to do something functional, productive for the society and be part of solutions to some of the various problems and challenges facing the society today. 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+### More Information
 
-## Features
+I constantly update my CV (in LaTeX). Please find it [here](Documents/CV_Suman.pdf).
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+### Scientific Publications:
+
+
+- Climate hazards are threatening vulnerable migrants in Indian megacities [[DOI]](https://doi.org/10.1038/s41558-021-01105-7)
+
+
+
+### Contact me
+
+Please mail me at [suman.nad@gmail.com](mailto:suman.nad@gmail.com)
+
