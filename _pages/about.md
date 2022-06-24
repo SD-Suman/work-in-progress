@@ -8,7 +8,7 @@ I, Suman Dharmasthala (S D Suman) am an urban and regional planner, researcher a
 
 ### More Information
 
-I constantly update my CV (in LaTeX). Please find it [here](Documents/CV_Suman.pdf).
+I constantly update my CV (in LaTeX). Please find it [here](https://github.com/SD-Suman/SD-Suman.github.io/blob/master/Documents/CV_Suman.pdf).
 
 
 ### Scientific Publications:
